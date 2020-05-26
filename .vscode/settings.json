@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\envs\\fortest\\python.exe",
+    "python.dataScience.jupyterServerURI": "http://localhost:8889/?token=1cf0c52c8d84fc0364328d7d878a1d6f6f7776b653ab53df",
+    "python.dataScience.jupyterCommandLineArguments": []
+}
